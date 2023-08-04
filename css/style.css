@@ -1,0 +1,40 @@
+.fixo{
+
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.conteudo-loja{
+    margin-top: 10em;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.produtos{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.corfundonav{
+    background-color: burlywood;
+  }
+.footer{
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+footer{
+    position: relative;
+    align-items: center;
+    font-size: 1.5em;
+    line-height: 1;
+    background-color: burlywood;
+    width: 100%;
+    padding: 2%;
+    }
